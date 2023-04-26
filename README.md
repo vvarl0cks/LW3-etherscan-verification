@@ -11,3 +11,8 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+# Deployed to Mumbai.
+<img src="https://imgbox.io/ib/Kr0PlQ79bS.PNG">
+
+# LearnWeb3 DAO Junior Phase 6.
+https://learnweb3.io/profiles/warl0cks
